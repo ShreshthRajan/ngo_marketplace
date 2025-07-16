@@ -1,0 +1,30 @@
+{
+  "name": "ngo-marketplace-backend",
+  "version": "1.0.0",
+  "description": "NGO Marketplace Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "scrape": "node scrapers/runAll.js",
+    "scrape:nonprofits": "node scrapers/nonprofits/propublica.js",
+    "scrape:bcorp": "node scrapers/forprofits/bcorp.js"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.7.1",
+    "axios": "^1.6.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.21.2",
+    "fs-extra": "^11.2.0",
+    "pg": "^8.11.3",
+    "prisma": "^5.7.1",
+    "puppeteer": "^21.11.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "puppeteer-extra-plugin-user-data-dir": "^2.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}

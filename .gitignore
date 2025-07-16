@@ -1,0 +1,15 @@
+echo "node_modules/
+.env
+.env.local
+data/raw/*
+data/processed/*
+*.log
+.DS_Store
+backend/prisma/*.db
+backend/prisma/*.db-journal
+*.csv
+!data/raw/.gitkeep
+!data/processed/.gitkeep" > .gitignore
+
+# Keep data folders but not their contents
+touch data/raw/.gitkeep data/processed/.gitkeep
