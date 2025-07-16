@@ -9,7 +9,7 @@ import {
 } from '../types';
 
 const API_BASE_URL = process.env.NODE_ENV === 'production' 
-  ? '/api' 
+  ? process.env.REACT_APP_API_URL || 'https://your-railway-url.railway.app/api'
   : 'http://localhost:3001/api';
 
 const api = axios.create({
