@@ -1,0 +1,1577 @@
+[
+  {
+    "name": "Littler Mendelson",
+    "location": "San Francisco, CA",
+    "industry": "Legal Services",
+    "values": "Employment Law, Worker Rights, Legal Innovation",
+    "region": "CA",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We help employers effectively manage workplace challenges and minimize legal risk while fostering high-performing workplaces."
+  },
+  {
+    "name": "Morgan Lewis",
+    "location": "Philadelphia, PA",
+    "industry": "Legal Services",
+    "values": "Global Legal Excellence, Pro Bono Service",
+    "region": "PA",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We apply legal, business, and industry knowledge to help clients solve their most complex challenges and achieve their business goals."
+  },
+  {
+    "name": "Fenwick & West",
+    "location": "Mountain View, CA",
+    "industry": "Legal Services",
+    "values": "Technology Law, Innovation Legal Support",
+    "region": "CA",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We help the most innovative companies in the world solve their most challenging legal problems."
+  },
+  {
+    "name": "Wilson Sonsini",
+    "location": "Palo Alto, CA",
+    "industry": "Legal Services",
+    "values": "Startup Legal Services, Tech Innovation",
+    "region": "CA",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We provide legal counsel at the intersection of business, technology, and law."
+  },
+  {
+    "name": "Cooley LLP",
+    "location": "Palo Alto, CA",
+    "industry": "Legal Services",
+    "values": "Growth Company Law, Pro Bono Excellence",
+    "region": "CA",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We combine deep industry knowledge with premier legal skills to help clients achieve their business objectives."
+  },
+  {
+    "name": "Orrick Herrington",
+    "location": "San Francisco, CA",
+    "industry": "Legal Services",
+    "values": "Global Legal Innovation, Access to Justice",
+    "region": "CA",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We deliver sophisticated legal counsel and strategic guidance across complex matters and transactions."
+  },
+  {
+    "name": "Perkins Coie",
+    "location": "Seattle, WA",
+    "industry": "Legal Services",
+    "values": "Technology Law, Diversity & Inclusion",
+    "region": "WA",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We deliver exceptional results, value, and service to our clients around the world."
+  },
+  {
+    "name": "DLA Piper",
+    "location": "Chicago, IL",
+    "industry": "Legal Services",
+    "values": "Global Legal Access, Pro Bono Leadership",
+    "region": "IL",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We help clients navigate and succeed in today's complex and competitive global marketplace."
+  },
+  {
+    "name": "Baker McKenzie",
+    "location": "Chicago, IL",
+    "industry": "Legal Services",
+    "values": "Global Legal Network, Cross-Border Justice",
+    "region": "IL",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We help clients navigate the intersection of global and local to create opportunities and solve complex challenges."
+  },
+  {
+    "name": "White & Case",
+    "location": "New York, NY",
+    "industry": "Legal Services",
+    "values": "International Law, Rule of Law Promotion",
+    "region": "NY",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We help companies, governments and financial institutions achieve their global ambitions."
+  },
+  {
+    "name": "LegalZoom",
+    "location": "Glendale, CA",
+    "industry": "Legal Technology",
+    "values": "Legal Access Democratization, Small Business Support",
+    "region": "CA",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We democratize law by making legal help accessible and simple for everyone."
+  },
+  {
+    "name": "Rocket Lawyer",
+    "location": "San Francisco, CA",
+    "industry": "Legal Technology",
+    "values": "Affordable Legal Services, Legal Access",
+    "region": "CA",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We make legal simple, affordable, and accessible so everyone can understand and exercise their legal rights."
+  },
+  {
+    "name": "Clio",
+    "location": "Vancouver, Canada",
+    "industry": "Legal Technology",
+    "values": "Legal Practice Innovation, Access to Justice",
+    "region": "International",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We transform the practice of law for good by creating cloud-based legal technology that helps lawyers run better firms."
+  },
+  {
+    "name": "Thomson Reuters",
+    "location": "Toronto, Canada",
+    "industry": "Legal Technology",
+    "values": "Legal Information Access, Rule of Law Support",
+    "region": "International",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We inform the way forward by bringing together trusted content and technology to enable professionals and businesses to make the right decisions."
+  },
+  {
+    "name": "Lexis Nexis",
+    "location": "New York, NY",
+    "industry": "Legal Technology",
+    "values": "Legal Research Innovation, Justice Information",
+    "region": "NY",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We advance the rule of law around the world by providing legal, regulatory, and business information and analytics."
+  },
+  {
+    "name": "Relativity",
+    "location": "Chicago, IL",
+    "industry": "Legal Technology",
+    "values": "E-Discovery Innovation, Legal Efficiency",
+    "region": "IL",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We help organizations manage massive amounts of data during litigation, regulatory compliance, and investigations."
+  },
+  {
+    "name": "Palantir Technologies",
+    "location": "Denver, CO",
+    "industry": "Legal Technology",
+    "values": "Data for Justice, Government Transparency",
+    "region": "CO",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We build software that empowers organizations to effectively integrate their data, decisions, and operations."
+  },
+  {
+    "name": "Ironclad",
+    "location": "San Francisco, CA",
+    "industry": "Legal Technology",
+    "values": "Contract Democratization, Legal Automation",
+    "region": "CA",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We make contracts simple through a digital contracting platform that accelerates business velocity."
+  },
+  {
+    "name": "Disco",
+    "location": "Austin, TX",
+    "industry": "Legal Technology",
+    "values": "Legal Cloud Innovation, Discovery Justice",
+    "region": "TX",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We apply artificial intelligence and cloud computing to simplify ediscovery and legal document review."
+  },
+  {
+    "name": "Kira Systems",
+    "location": "Toronto, Canada",
+    "industry": "Legal Technology",
+    "values": "AI for Legal Access, Contract Intelligence",
+    "region": "International",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We use machine learning to identify, extract, and analyze text in contracts and other documents."
+  },
+  {
+    "name": "Amnesty International",
+    "location": "London, UK",
+    "industry": "Human Rights",
+    "values": "Global Human Rights, Justice Advocacy",
+    "region": "International",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We work to free all prisoners of conscience, prevent torture, and abolish the death penalty worldwide."
+  },
+  {
+    "name": "Human Rights Watch",
+    "location": "New York, NY",
+    "industry": "Human Rights",
+    "values": "Human Rights Documentation, Global Justice",
+    "region": "NY",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We defend the rights of people worldwide by rigorously investigating abuses, exposing facts, and pressuring those in power to respect rights."
+  },
+  {
+    "name": "Transparency International",
+    "location": "Berlin, Germany",
+    "industry": "Anti-Corruption",
+    "values": "Anti-Corruption, Governance Transparency",
+    "region": "International",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We envision a world in which government, politics, business, civil society and daily life are free of corruption."
+  },
+  {
+    "name": "International Crisis Group",
+    "location": "Brussels, Belgium",
+    "industry": "Conflict Resolution",
+    "values": "Conflict Prevention, Peace Building",
+    "region": "International",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We work to prevent, mitigate and resolve deadly conflict through field research, policy analysis and high-level advocacy."
+  },
+  {
+    "name": "Freedom House",
+    "location": "Washington, DC",
+    "industry": "Democracy",
+    "values": "Democracy Promotion, Freedom Advocacy",
+    "region": "DC",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We champion democratic values and oppose dictatorship and corruption around the world."
+  },
+  {
+    "name": "Open Society Foundations",
+    "location": "New York, NY",
+    "industry": "Human Rights",
+    "values": "Open Society, Justice Funding",
+    "region": "NY",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We work to build vibrant and inclusive democracies whose governments are accountable to their citizens."
+  },
+  {
+    "name": "International Bar Association",
+    "location": "London, UK",
+    "industry": "Legal Professional",
+    "values": "Global Legal Standards, Rule of Law",
+    "region": "International",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We influence the development of international law reform and shape the future of the legal profession worldwide."
+  },
+  {
+    "name": "World Justice Project",
+    "location": "Washington, DC",
+    "industry": "Rule of Law",
+    "values": "Rule of Law Advancement, Justice Metrics",
+    "region": "DC",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We work to advance the rule of law worldwide through research, measurement, and engagement."
+  },
+  {
+    "name": "International Commission of Jurists",
+    "location": "Geneva, Switzerland",
+    "industry": "Legal Advocacy",
+    "values": "International Law, Judicial Independence",
+    "region": "International",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We promote understanding and observance of the rule of law and legal protection of human rights worldwide."
+  },
+  {
+    "name": "Lawyers Without Borders",
+    "location": "New Haven, CT",
+    "industry": "International Legal Aid",
+    "values": "Global Legal Access, Rule of Law Development",
+    "region": "CT",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We leverage the power of law to protect human rights and promote development worldwide."
+  },
+  {
+    "name": "Mwamba",
+    "location": "Nairobi, Kenya",
+    "industry": "Development Finance",
+    "values": "African Legal Development, Access to Justice Funding",
+    "region": "International",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We accelerate sustainable development in Africa through strategic investments and capacity building initiatives."
+  },
+  {
+    "name": "Ford Foundation",
+    "location": "New York, NY",
+    "industry": "Philanthropy",
+    "values": "Social Justice Funding, Legal Aid Support",
+    "region": "NY",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We reduce inequality by strengthening democratic values, promoting civic engagement, and advancing human achievement."
+  },
+  {
+    "name": "Open Society Justice Initiative",
+    "location": "New York, NY",
+    "industry": "Legal Funding",
+    "values": "Human Rights Litigation, Rule of Law Funding",
+    "region": "NY",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We use law to protect and empower people around the world through strategic litigation, advocacy, and technical assistance."
+  },
+  {
+    "name": "MacArthur Foundation",
+    "location": "Chicago, IL",
+    "industry": "Philanthropy",
+    "values": "Justice Innovation, Legal Reform Funding",
+    "region": "IL",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We support creative people, effective institutions, and influential networks building a more just, verdant, and peaceful world."
+  },
+  {
+    "name": "Hewlett Foundation",
+    "location": "Menlo Park, CA",
+    "industry": "Philanthropy",
+    "values": "Conflict Resolution, Rule of Law Support",
+    "region": "CA",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We advance education, democracy, conservation, and global development to improve lives and strengthen communities worldwide."
+  },
+  {
+    "name": "Rockefeller Brothers Fund",
+    "location": "New York, NY",
+    "industry": "Philanthropy",
+    "values": "Democratic Practice, Justice Funding",
+    "region": "NY",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We advances social change that contributes to a more just, sustainable, and peaceful world."
+  },
+  {
+    "name": "Carnegie Corporation",
+    "location": "New York, NY",
+    "industry": "Philanthropy",
+    "values": "International Peace, Democracy Support",
+    "region": "NY",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We promote the advancement and diffusion of knowledge and understanding to strengthen democracy."
+  },
+  {
+    "name": "Skoll Foundation",
+    "location": "Palo Alto, CA",
+    "industry": "Social Innovation",
+    "values": "Social Entrepreneurship, Justice Innovation",
+    "region": "CA",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We drive large-scale change by investing in, connecting, and celebrating social entrepreneurs."
+  },
+  {
+    "name": "Omidyar Network",
+    "location": "Redwood City, CA",
+    "industry": "Impact Investment",
+    "values": "Governance Innovation, Digital Rights",
+    "region": "CA",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We invest in people and ideas to create opportunity for everyone at the individual, community, and systems levels."
+  },
+  {
+    "name": "Luminate",
+    "location": "London, UK",
+    "industry": "Digital Rights Funding",
+    "values": "Civic Technology, Digital Justice",
+    "region": "International",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We empower people and institutions to work together to build just and fair societies."
+  },
+  {
+    "name": "Legal Aid Society",
+    "location": "New York, NY",
+    "industry": "Legal Aid",
+    "values": "Legal Defense, Access to Justice",
+    "region": "NY",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We protect, defend, and advocate for people who cannot afford to hire a lawyer."
+  },
+  {
+    "name": "ACLU Foundation",
+    "location": "New York, NY",
+    "industry": "Civil Rights",
+    "values": "Civil Liberties, Constitutional Rights",
+    "region": "NY",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We defend and preserve individual rights and liberties guaranteed by the Constitution and laws of the United States."
+  },
+  {
+    "name": "Southern Poverty Law Center",
+    "location": "Montgomery, AL",
+    "industry": "Civil Rights",
+    "values": "Hate Crime Fighting, Civil Rights Advocacy",
+    "region": "AL",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We fight hate, teach tolerance, and seek justice for the most vulnerable members of our society."
+  },
+  {
+    "name": "Electronic Frontier Foundation",
+    "location": "San Francisco, CA",
+    "industry": "Digital Rights",
+    "values": "Digital Privacy, Technology Rights",
+    "region": "CA",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We defend civil liberties in the digital world through impact litigation, policy analysis, grassroots activism, and technology development."
+  },
+  {
+    "name": "Center for Constitutional Rights",
+    "location": "New York, NY",
+    "industry": "Constitutional Law",
+    "values": "Constitutional Justice, Human Rights",
+    "region": "NY",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We use litigation and advocacy to advance the rights guaranteed by the United States Constitution and international human rights law."
+  },
+  {
+    "name": "Lambda Legal",
+    "location": "New York, NY",
+    "industry": "LGBTQ Rights",
+    "values": "LGBTQ Legal Rights, Equality Advocacy",
+    "region": "NY",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We defend the civil rights of lesbian, gay, bisexual, transgender, and intersex people and those living with HIV through impact litigation, education, and public policy work."
+  },
+  {
+    "name": "NAACP Legal Defense Fund",
+    "location": "New York, NY",
+    "industry": "Civil Rights",
+    "values": "Racial Justice, Legal Equality",
+    "region": "NY",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We fight for racial justice through litigation, advocacy, and public education to secure equal justice under law."
+  },
+  {
+    "name": "Mexican American Legal Defense",
+    "location": "Los Angeles, CA",
+    "industry": "Civil Rights",
+    "values": "Latino Rights, Educational Equity",
+    "region": "CA",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We protects and promotes the civil rights of Latinos living in the United States through litigation, advocacy, community education, and leadership development."
+  },
+  {
+    "name": "Asian Pacific Fund",
+    "location": "San Francisco, CA",
+    "industry": "Civil Rights",
+    "values": "Asian American Rights, Community Justice",
+    "region": "CA",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We grow, strengthen, and mobilize resources for Asian and Pacific Islander communities to create lasting change."
+  },
+  {
+    "name": "National Immigration Law Center",
+    "location": "Los Angeles, CA",
+    "industry": "Immigration Law",
+    "values": "Immigrant Rights, Legal Protection",
+    "region": "CA",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We defends and advances the rights and opportunities of low-income immigrants and their families."
+  },
+  {
+    "name": "International Court of Justice",
+    "location": "The Hague, Netherlands",
+    "industry": "International Law",
+    "values": "International Justice, Global Rule of Law",
+    "region": "International",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We settle legal disputes between states and provide advisory opinions on legal questions referred by UN organs."
+  },
+  {
+    "name": "International Criminal Court",
+    "location": "The Hague, Netherlands",
+    "industry": "Criminal Justice",
+    "values": "International Criminal Justice, War Crimes",
+    "region": "International",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We investigate and prosecute individuals for the most serious crimes: genocide, crimes against humanity, war crimes, and aggression."
+  },
+  {
+    "name": "UN Office on Drugs and Crime",
+    "location": "Vienna, Austria",
+    "industry": "Criminal Justice",
+    "values": "Global Crime Prevention, Justice Systems",
+    "region": "International",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We promote health, security, and justice by helping countries fight drugs, crime, corruption, and terrorism."
+  },
+  {
+    "name": "International Development Law Organization",
+    "location": "Rome, Italy",
+    "industry": "Development Law",
+    "values": "Legal Development, Rule of Law Building",
+    "region": "International",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We promotes sustainable development through rule of law programming, capacity building, and research."
+  },
+  {
+    "name": "World Bank Legal",
+    "location": "Washington, DC",
+    "industry": "Development Finance",
+    "values": "Legal Infrastructure, Governance Support",
+    "region": "DC",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We provide legal services to enable the World Bank's mission of ending extreme poverty and promoting shared prosperity."
+  },
+  {
+    "name": "International Legal Foundation",
+    "location": "Washington, DC",
+    "industry": "Legal Development",
+    "values": "Criminal Defense Systems, Legal Aid",
+    "region": "DC",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We promotes human rights and real access to justice by providing quality legal aid to the most vulnerable."
+  },
+  {
+    "name": "American Bar Foundation",
+    "location": "Chicago, IL",
+    "industry": "Legal Research",
+    "values": "Legal System Research, Justice Innovation",
+    "region": "IL",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We expand knowledge and advance justice through innovative research on law and legal institutions."
+  },
+  {
+    "name": "International Association of Prosecutors",
+    "location": "The Hague, Netherlands",
+    "industry": "Prosecution",
+    "values": "Prosecutorial Excellence, Justice Systems",
+    "region": "International",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We promote effective, fair, accountable, and efficient prosecution services worldwide."
+  },
+  {
+    "name": "Inter-American Commission on Human Rights",
+    "location": "Washington, DC",
+    "industry": "Human Rights",
+    "values": "Regional Human Rights, Justice Protection",
+    "region": "DC",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We promote and protect human rights in the Americas through monitoring, reporting, and case resolution."
+  },
+  {
+    "name": "European Court of Human Rights",
+    "location": "Strasbourg, France",
+    "industry": "Human Rights",
+    "values": "European Human Rights, Legal Protection",
+    "region": "International",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We ensure observance of the European Convention on Human Rights by examining applications alleging violations."
+  },
+  {
+    "name": "Harvard Law School",
+    "location": "Cambridge, MA",
+    "industry": "Legal Education",
+    "values": "Legal Excellence, Public Service",
+    "region": "MA",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We educate leaders who contribute to the advancement of justice and the well-being of society."
+  },
+  {
+    "name": "Yale Law School",
+    "location": "New Haven, CT",
+    "industry": "Legal Education",
+    "values": "Legal Leadership, Social Justice",
+    "region": "CT",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We prepare students for leadership in every area where law matters by providing the finest legal education possible."
+  },
+  {
+    "name": "Stanford Law School",
+    "location": "Stanford, CA",
+    "industry": "Legal Education",
+    "values": "Legal Innovation, Technology Law",
+    "region": "CA",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We create knowledge, solve problems, and develop leaders to address the world's most pressing challenges."
+  },
+  {
+    "name": "Georgetown Law",
+    "location": "Washington, DC",
+    "industry": "Legal Education",
+    "values": "Public Interest Law, Global Justice",
+    "region": "DC",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We prepare students to create a more just world through outstanding scholarship, experiential learning, and public service."
+  },
+  {
+    "name": "New York University Law",
+    "location": "New York, NY",
+    "industry": "Legal Education",
+    "values": "Legal Scholarship, Public Service",
+    "region": "NY",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We train students to be practice-ready and to address society's greatest challenges through law."
+  },
+  {
+    "name": "Columbia Law School",
+    "location": "New York, NY",
+    "industry": "Legal Education",
+    "values": "Legal Excellence, Human Rights",
+    "region": "NY",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We advance the understanding of law in service of society through transformative legal education and scholarship."
+  },
+  {
+    "name": "University of Chicago Law",
+    "location": "Chicago, IL",
+    "industry": "Legal Education",
+    "values": "Legal Analysis, Economic Justice",
+    "region": "IL",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We advance understanding of law through rigorous analysis and prepare students to address society's greatest challenges."
+  },
+  {
+    "name": "Berkeley Law",
+    "location": "Berkeley, CA",
+    "industry": "Legal Education",
+    "values": "Public Interest, Social Justice",
+    "region": "CA",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We are defined by our commitment to being a public good, contributing to a better, more just world."
+  },
+  {
+    "name": "Michigan Law",
+    "location": "Ann Arbor, MI",
+    "industry": "Legal Education",
+    "values": "Legal Excellence, Public Service",
+    "region": "MI",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We prepare students to contribute to the common good as ethical leaders in the legal profession and beyond."
+  },
+  {
+    "name": "Northwestern Law",
+    "location": "Chicago, IL",
+    "industry": "Legal Education",
+    "values": "Legal Innovation, Practical Training",
+    "region": "IL",
+    "issueArea": "Legal & Rule of Law",
+    "mission": "We prepare students to excel as lawyers and leaders through innovative education that bridges law, business, and society."
+  },
+  {
+    "name": "Patagonia",
+    "location": "Ventura, CA",
+    "industry": "Apparel",
+    "values": "Environmental Activism, Fair Trade, 1% for Planet",
+    "region": "CA",
+    "issueArea": "Environment",
+    "mission": "We build the best product, cause no unnecessary harm, and use business to inspire and implement solutions to the environmental crisis."
+  },
+  {
+    "name": "Eileen Fisher",
+    "location": "Irvington, NY",
+    "industry": "Apparel",
+    "values": "Women Empowerment, Circular Design",
+    "region": "NY",
+    "issueArea": "Women",
+    "mission": "We support women, cultivate creativity, and bring awareness and positive change to the world through the business of responsible fashion."
+  },
+  {
+    "name": "Bombas",
+    "location": "New York, NY",
+    "industry": "Apparel",
+    "values": "One-for-One Donation, Comfort",
+    "region": "NY",
+    "issueArea": "Poverty",
+    "mission": "We make the most comfortable socks in the history of feet while giving back to those in need."
+  },
+  {
+    "name": "Allbirds",
+    "location": "San Francisco, CA",
+    "industry": "Footwear",
+    "values": "Carbon Negative, Natural Materials",
+    "region": "CA",
+    "issueArea": "Environment",
+    "mission": "We make the world's most comfortable shoes using sustainable materials in a way that is better for our environment."
+  },
+  {
+    "name": "Toms",
+    "location": "Los Angeles, CA",
+    "industry": "Footwear",
+    "values": "One for One, Social Enterprise",
+    "region": "CA",
+    "issueArea": "Poverty",
+    "mission": "We use business to improve lives by creating products that give back to people in need with every purchase."
+  },
+  {
+    "name": "Athleta",
+    "location": "San Francisco, CA",
+    "industry": "Apparel",
+    "values": "Women Empowerment, Inclusive Sizing",
+    "region": "CA",
+    "issueArea": "Women",
+    "mission": "We ignite a community of unstoppable women and girls who lift each other up and change the world."
+  },
+  {
+    "name": "Reformation",
+    "location": "Los Angeles, CA",
+    "industry": "Fashion",
+    "values": "Sustainable Fashion, Carbon Neutral",
+    "region": "CA",
+    "issueArea": "Environment",
+    "mission": "We make sustainable women's clothing and accessories for the fashion-forward, environmentally conscious woman."
+  },
+  {
+    "name": "Indigenous",
+    "location": "Sebastopol, CA",
+    "industry": "Fashion",
+    "values": "Fair Trade, Artisan Support",
+    "region": "CA",
+    "issueArea": "International",
+    "mission": "We create authentic, organic, and fair trade designs that celebrate traditional cultures while supporting artisan communities."
+  },
+  {
+    "name": "Pact",
+    "location": "Boulder, CO",
+    "industry": "Apparel",
+    "values": "Organic Cotton, Fair Trade",
+    "region": "CO",
+    "issueArea": "Environment",
+    "mission": "We make organic basics that don't cost the earth while supporting fair trade throughout our supply chain."
+  },
+  {
+    "name": "Kotn",
+    "location": "Toronto, Canada",
+    "industry": "Apparel",
+    "values": "Egyptian Cotton, Farmer Support",
+    "region": "International",
+    "issueArea": "Agriculture",
+    "mission": "We create premium essentials while building sustainable infrastructure in the farming communities that grow our cotton."
+  },
+  {
+    "name": "Ben & Jerry's",
+    "location": "Burlington, VT",
+    "industry": "Food",
+    "values": "Social Justice, Climate Action, Fair Trade",
+    "region": "VT",
+    "issueArea": "Social Justice",
+    "mission": "We make the best ice cream in the nicest way possible while advancing progressive values and social justice."
+  },
+  {
+    "name": "Danone North America",
+    "location": "White Plains, NY",
+    "industry": "Food",
+    "values": "Regenerative Agriculture, Health",
+    "region": "NY",
+    "issueArea": "Health",
+    "mission": "We bring health through food to as many people as possible through nutritious, sustainable products."
+  },
+  {
+    "name": "New Belgium Brewing",
+    "location": "Fort Collins, CO",
+    "industry": "Beverage",
+    "values": "Employee Ownership, Carbon Neutral",
+    "region": "CO",
+    "issueArea": "Workers",
+    "mission": "We prove that business can be a force for good by creating great beer while caring for our communities and environment."
+  },
+  {
+    "name": "King Arthur Baking",
+    "location": "Norwich, VT",
+    "industry": "Food",
+    "values": "Employee Ownership, Education",
+    "region": "VT",
+    "issueArea": "Community",
+    "mission": "We inspire and enable baking confidence, creativity, and success for generations of bakers."
+  },
+  {
+    "name": "Cabot Creamery",
+    "location": "Waitsfield, VT",
+    "industry": "Food",
+    "values": "Farmer-Owned Cooperative, Community",
+    "region": "VT",
+    "issueArea": "Agriculture",
+    "mission": "We create the world's best dairy products while supporting our farm families and communities."
+  },
+  {
+    "name": "Rhino Foods",
+    "location": "Burlington, VT",
+    "industry": "Food Manufacturing",
+    "values": "Income Advance Program, Employee Care",
+    "region": "VT",
+    "issueArea": "Workers",
+    "mission": "We make great food while building community and caring for people and the planet."
+  },
+  {
+    "name": "Numi Organic Tea",
+    "location": "Oakland, CA",
+    "industry": "Beverage",
+    "values": "Fair Trade, Climate Neutral",
+    "region": "CA",
+    "issueArea": "Agriculture",
+    "mission": "We inspire well-being of mind, body, and spirit through the art of tea while regenerating the earth."
+  },
+  {
+    "name": "Clif Bar",
+    "location": "Emeryville, CA",
+    "industry": "Food",
+    "values": "Organic Ingredients, Employee Ownership",
+    "region": "CA",
+    "issueArea": "Health",
+    "mission": "We make nutritious, organic food while treating our people, communities, and planet with care."
+  },
+  {
+    "name": "Annie's Homegrown",
+    "location": "Berkeley, CA",
+    "industry": "Food",
+    "values": "Organic Food Access, Environmental Stewardship",
+    "region": "CA",
+    "issueArea": "Environment",
+    "mission": "We cultivate a healthier and happier world by spreading goodness through nourishing foods kids and families love."
+  },
+  {
+    "name": "Stonyfield Farm",
+    "location": "Londonderry, NH",
+    "industry": "Food",
+    "values": "Organic Farming, Climate Action",
+    "region": "NH",
+    "issueArea": "Environment",
+    "mission": "We produce healthy, organic yogurt while caring for the planet, farmers, and families."
+  },
+  {
+    "name": "Alter Eco",
+    "location": "San Francisco, CA",
+    "industry": "Food",
+    "values": "Fair Trade, Carbon Negative",
+    "region": "CA",
+    "issueArea": "International",
+    "mission": "We create delicious, organic chocolate and snacks while supporting farmers and regenerating the planet."
+  },
+  {
+    "name": "Guayakí",
+    "location": "Sebastopol, CA",
+    "industry": "Beverage",
+    "values": "Rainforest Conservation, Indigenous Communities",
+    "region": "CA",
+    "issueArea": "Environment",
+    "mission": "We create a market-driven solution to deforestation by cultivating yerba mate in a way that regenerates the rainforest."
+  },
+  {
+    "name": "Equal Exchange",
+    "location": "West Bridgewater, MA",
+    "industry": "Food",
+    "values": "Fair Trade, Farmer Cooperatives",
+    "region": "MA",
+    "issueArea": "International",
+    "mission": "We build long-term trade partnerships that are economically just and environmentally sound."
+  },
+  {
+    "name": "Lundberg Family Farms",
+    "location": "Richvale, CA",
+    "industry": "Food",
+    "values": "Organic Farming, Family Values",
+    "region": "CA",
+    "issueArea": "Agriculture",
+    "mission": "We produce wholesome rice products while nurturing the earth for future generations."
+  },
+  {
+    "name": "Kickstarter",
+    "location": "Brooklyn, NY",
+    "industry": "Technology",
+    "values": "Creative Empowerment, Public Benefit",
+    "region": "NY",
+    "issueArea": "Arts",
+    "mission": "We help bring creative projects to life by building a global community around creative collaboration."
+  },
+  {
+    "name": "Etsy",
+    "location": "Brooklyn, NY",
+    "industry": "E-commerce",
+    "values": "Empower Creators, Carbon Neutral",
+    "region": "NY",
+    "issueArea": "Arts",
+    "mission": "We keep commerce human by empowering creative entrepreneurs and making unique goods accessible worldwide."
+  },
+  {
+    "name": "Coursera",
+    "location": "Mountain View, CA",
+    "industry": "Education Technology",
+    "values": "Education Access, Skills Development",
+    "region": "CA",
+    "issueArea": "Education",
+    "mission": "We partner with universities and organizations worldwide to offer courses online for anyone to take."
+  },
+  {
+    "name": "Hootsuite",
+    "location": "Vancouver, Canada",
+    "industry": "Technology",
+    "values": "Social Good, Digital Inclusion",
+    "region": "International",
+    "issueArea": "Technology",
+    "mission": "We help organizations execute marketing strategies across all social media platforms through our unified dashboard."
+  },
+  {
+    "name": "Buffer",
+    "location": "San Francisco, CA",
+    "industry": "Technology",
+    "values": "Transparency, Mental Health",
+    "region": "CA",
+    "issueArea": "Workers",
+    "mission": "We help small businesses succeed with outstanding social media marketing tools, paired with an exceptional customer experience."
+  },
+  {
+    "name": "Salesforce",
+    "location": "San Francisco, CA",
+    "industry": "Technology",
+    "values": "Equality, Environmental Sustainability",
+    "region": "CA",
+    "issueArea": "Social Justice",
+    "mission": "We help companies connect with their customers in a whole new way through our customer relationship management platform."
+  },
+  {
+    "name": "Dr. Bronner's",
+    "location": "Vista, CA",
+    "industry": "Personal Care",
+    "values": "Fair Trade, Regenerative Organic",
+    "region": "CA",
+    "issueArea": "Environment",
+    "mission": "We dedicate our profits and ourselves to helping make a better world by promoting and practicing the ethical principles of treating employees, customers, and communities with fairness and respect."
+  },
+  {
+    "name": "Natura &Co",
+    "location": "São Paulo, Brazil",
+    "industry": "Beauty",
+    "values": "Biodiversity, Fair Trade, Women Empowerment",
+    "region": "International",
+    "issueArea": "Environment",
+    "mission": "We are committed to generating positive economic, social, and environmental impact while creating shareholder value through our global beauty brands."
+  },
+  {
+    "name": "Sundial Brands",
+    "location": "Amityville, NY",
+    "industry": "Beauty",
+    "values": "Community Commerce, Women of Color",
+    "region": "NY",
+    "issueArea": "Community",
+    "mission": "We create products and experiences that allow consumers to treat their hair and skin with love while celebrating the beauty of cultural diversity."
+  },
+  {
+    "name": "Beautycounter",
+    "location": "Santa Monica, CA",
+    "industry": "Beauty",
+    "values": "Clean Beauty, Safer Products",
+    "region": "CA",
+    "issueArea": "Health",
+    "mission": "We get safer products into the hands of everyone through our mission to change the beauty industry for better."
+  },
+  {
+    "name": "The Honest Company",
+    "location": "Los Angeles, CA",
+    "industry": "Personal Care",
+    "values": "Safe Products, Family Health",
+    "region": "CA",
+    "issueArea": "Health",
+    "mission": "We empower people to live happy, healthy lives every day by creating products that are safe, effective, and beautiful."
+  },
+  {
+    "name": "Schmidt's Naturals",
+    "location": "Portland, OR",
+    "industry": "Personal Care",
+    "values": "Natural Ingredients, Sustainability",
+    "region": "OR",
+    "issueArea": "Environment",
+    "mission": "We make personal care products with plant and mineral-based ingredients that work effectively while being kind to your body and the planet."
+  },
+  {
+    "name": "Seventh Generation",
+    "location": "Burlington, VT",
+    "industry": "Consumer Goods",
+    "values": "Zero Waste, Non-Toxic",
+    "region": "VT",
+    "issueArea": "Environment",
+    "mission": "We believe in a world where the air, water, food, and household products are safe for all people and the planet."
+  },
+  {
+    "name": "Method",
+    "location": "San Francisco, CA",
+    "industry": "Home Care",
+    "values": "Cradle to Cradle, Clean Products",
+    "region": "CA",
+    "issueArea": "Environment",
+    "mission": "We create beautiful, effective products that are good for you, your home, and your planet."
+  },
+  {
+    "name": "Grove Collaborative",
+    "location": "San Francisco, CA",
+    "industry": "Consumer Goods",
+    "values": "Plastic-Free, Natural Products",
+    "region": "CA",
+    "issueArea": "Environment",
+    "mission": "We transform the way we shop for the home by offering only products that are good for you, your family, and the planet."
+  },
+  {
+    "name": "Preserve",
+    "location": "Waltham, MA",
+    "industry": "Consumer Products",
+    "values": "Recycled Materials, Take Back Program",
+    "region": "MA",
+    "issueArea": "Environment",
+    "mission": "We turn waste into beautiful, functional products that enhance your life while protecting the environment."
+  },
+  {
+    "name": "Klean Kanteen",
+    "location": "Chico, CA",
+    "industry": "Consumer Goods",
+    "values": "Climate Neutral, 1% for Planet",
+    "region": "CA",
+    "issueArea": "Environment",
+    "mission": "We create high-quality, durable bottles and containers that help people live healthier lives while protecting the planet."
+  },
+  {
+    "name": "Cotopaxi",
+    "location": "Salt Lake City, UT",
+    "industry": "Outdoor Gear",
+    "values": "Poverty Alleviation, Adventure for Good",
+    "region": "UT",
+    "issueArea": "Poverty",
+    "mission": "We use business to elevate humanity by creating outdoor gear while alleviating poverty around the world."
+  },
+  {
+    "name": "Pela Case",
+    "location": "Saskatoon, Canada",
+    "industry": "Consumer Electronics",
+    "values": "Plastic-Free, Ocean Conservation",
+    "region": "International",
+    "issueArea": "Environment",
+    "mission": "We create compostable phone cases and accessories that help reduce plastic waste in our oceans."
+  },
+  {
+    "name": "Amalgamated Bank",
+    "location": "New York, NY",
+    "industry": "Banking",
+    "values": "Union-Owned, Fossil Fuel Free",
+    "region": "NY",
+    "issueArea": "Economic Justice",
+    "mission": "We use the power of finance to advance social justice and support organizations working toward equality."
+  },
+  {
+    "name": "Veris Wealth Partners",
+    "location": "San Francisco, CA",
+    "industry": "Finance",
+    "values": "Impact Investing, Wealth for Good",
+    "region": "CA",
+    "issueArea": "Economic Justice",
+    "mission": "We help investors build and preserve wealth while creating positive social and environmental impact."
+  },
+  {
+    "name": "Beneficial State Bank",
+    "location": "Oakland, CA",
+    "industry": "Banking",
+    "values": "Community Development, Financial Inclusion",
+    "region": "CA",
+    "issueArea": "Economic Justice",
+    "mission": "We bring beneficial banking to underserved communities by providing access to capital and financial services."
+  },
+  {
+    "name": "RSF Social Finance",
+    "location": "San Francisco, CA",
+    "industry": "Finance",
+    "values": "Social Lending, Transparent Investing",
+    "region": "CA",
+    "issueArea": "Economic Justice",
+    "mission": "We transform how the world works with money to create a more just and sustainable world."
+  },
+  {
+    "name": "New Resource Bank",
+    "location": "San Francisco, CA",
+    "industry": "Banking",
+    "values": "Sustainable Business, Green Finance",
+    "region": "CA",
+    "issueArea": "Environment",
+    "mission": "We support sustainable business practices by providing banking services to environmentally responsible companies."
+  },
+  {
+    "name": "Traditional Medicinals",
+    "location": "Sebastopol, CA",
+    "industry": "Health",
+    "values": "Herbalist Tradition, Fair Wild",
+    "region": "CA",
+    "issueArea": "Health",
+    "mission": "We connect people, plants, and planet to create the purest, most effective herbal teas and supplements."
+  },
+  {
+    "name": "Warby Parker",
+    "location": "New York, NY",
+    "industry": "Retail",
+    "values": "Buy a Pair Give a Pair, Carbon Neutral",
+    "region": "NY",
+    "issueArea": "Health",
+    "mission": "We believe everyone has the right to see, so we provide designer eyewear at affordable prices while giving back globally."
+  },
+  {
+    "name": "Headspace",
+    "location": "Santa Monica, CA",
+    "industry": "Health & Wellness",
+    "values": "Mental Health, Mindfulness Access",
+    "region": "CA",
+    "issueArea": "Health",
+    "mission": "We make meditation and mindfulness accessible to everyone through evidence-based techniques and content."
+  },
+  {
+    "name": "Thrive Market",
+    "location": "Los Angeles, CA",
+    "industry": "Health Food Retail",
+    "values": "Healthy Food Access, Membership Giving",
+    "region": "CA",
+    "issueArea": "Health",
+    "mission": "We make healthy living easy and affordable for everyone while supporting organic and sustainable food systems."
+  },
+  {
+    "name": "Laureate Education",
+    "location": "Baltimore, MD",
+    "industry": "Education",
+    "values": "Here for Good, Access to Education",
+    "region": "MD",
+    "issueArea": "Education",
+    "mission": "We provide access to quality higher education through our network of institutions worldwide."
+  },
+  {
+    "name": "Pencils of Promise",
+    "location": "New York, NY",
+    "industry": "Education",
+    "values": "Educational Equity, Community Building",
+    "region": "NY",
+    "issueArea": "Education",
+    "mission": "We increase access to quality education and create programs that empower communities to thrive."
+  },
+  {
+    "name": "Teach for America",
+    "location": "New York, NY",
+    "industry": "Education",
+    "values": "Educational Equity, Leadership Development",
+    "region": "NY",
+    "issueArea": "Education",
+    "mission": "We enlist our nation's most promising future leaders in the effort to eliminate educational inequity."
+  },
+  {
+    "name": "The Guardian Media Group",
+    "location": "London, UK",
+    "industry": "Media",
+    "values": "Independent Journalism, Climate Reporting",
+    "region": "International",
+    "issueArea": "Social Justice",
+    "mission": "We deliver fearless, investigative journalism that holds power to account and champions progressive values."
+  },
+  {
+    "name": "Lyft",
+    "location": "San Francisco, CA",
+    "industry": "Transportation",
+    "values": "Carbon Neutral, Community Investment",
+    "region": "CA",
+    "issueArea": "Environment",
+    "mission": "We improve people's lives with the world's best transportation by connecting riders with drivers through our platform."
+  },
+  {
+    "name": "Lime",
+    "location": "San Francisco, CA",
+    "industry": "Transportation",
+    "values": "Sustainable Mobility, City Partnership",
+    "region": "CA",
+    "issueArea": "Environment",
+    "mission": "We build a sustainable future by making shared micromobility accessible, affordable, and fun for everyone."
+  },
+  {
+    "name": "BCG Digital Ventures",
+    "location": "New York, NY",
+    "industry": "Consulting",
+    "values": "Innovation, Social Impact",
+    "region": "NY",
+    "issueArea": "Technology",
+    "mission": "We invent, build, and invest in startups with the world's most influential companies."
+  },
+  {
+    "name": "Deloitte",
+    "location": "New York, NY",
+    "industry": "Professional Services",
+    "values": "Purpose-Driven, Skills-Based Volunteering",
+    "region": "NY",
+    "issueArea": "Social Justice",
+    "mission": "We make an impact that matters by solving our clients' most complex challenges and helping them thrive."
+  },
+  {
+    "name": "Accenture",
+    "location": "Dublin, Ireland",
+    "industry": "Professional Services",
+    "values": "Skills to Succeed, Gender Equality",
+    "region": "International",
+    "issueArea": "Workers",
+    "mission": "We help our clients become high-performance businesses by providing consulting, technology, and outsourcing services."
+  },
+  {
+    "name": "The Body Shop",
+    "location": "London, UK",
+    "industry": "Retail",
+    "values": "Against Animal Testing, Community Fair Trade",
+    "region": "International",
+    "issueArea": "Environment",
+    "mission": "We fight for a fairer, more beautiful world by creating natural beauty products that make a positive impact."
+  },
+  {
+    "name": "Patagonia Provisions",
+    "location": "Ventura, CA",
+    "industry": "Food Retail",
+    "values": "Regenerative Agriculture, Food Transparency",
+    "region": "CA",
+    "issueArea": "Agriculture",
+    "mission": "We source and create foods that restore rather than deplete our planet while nourishing our bodies."
+  },
+  {
+    "name": "Outdoor Research",
+    "location": "Seattle, WA",
+    "industry": "Outdoor Retail",
+    "values": "Problem Solving, Community Support",
+    "region": "WA",
+    "issueArea": "Community",
+    "mission": "We create innovative outdoor gear for people who trust their lives to what we build."
+  },
+  {
+    "name": "Tesla",
+    "location": "Austin, TX",
+    "industry": "Automotive",
+    "values": "Sustainable Transport, Clean Energy",
+    "region": "TX",
+    "issueArea": "Environment",
+    "mission": "We accelerate the world's transition to sustainable energy through electric vehicles and clean energy solutions."
+  },
+  {
+    "name": "Interface Inc.",
+    "location": "Atlanta, GA",
+    "industry": "Manufacturing",
+    "values": "Mission Zero, Climate Take Back",
+    "region": "GA",
+    "issueArea": "Environment",
+    "mission": "We lead industrial renewal by creating flooring products that work in harmony with nature."
+  },
+  {
+    "name": "Patagonia Works",
+    "location": "Ventura, CA",
+    "industry": "Environmental Services",
+    "values": "1% for the Planet, Activism",
+    "region": "CA",
+    "issueArea": "Environment",
+    "mission": "We use our business to inspire and implement environmental solutions while building the best outdoor clothing."
+  },
+  {
+    "name": "Grameen Danone Foods",
+    "location": "Dhaka, Bangladesh",
+    "industry": "Food",
+    "values": "Nutrition Access, Social Business",
+    "region": "International",
+    "issueArea": "Health",
+    "mission": "We provide nutritious food to underserved populations while creating sustainable business models."
+  },
+  {
+    "name": "Divine Chocolate",
+    "location": "London, UK",
+    "industry": "Food",
+    "values": "Farmer Ownership, Fair Trade",
+    "region": "International",
+    "issueArea": "International",
+    "mission": "We create delicious, fairly traded chocolate while empowering cocoa farmers to control their destiny."
+  },
+  {
+    "name": "Tony's Chocolonely",
+    "location": "Amsterdam, Netherlands",
+    "industry": "Food",
+    "values": "Slave-Free Chocolate, Supply Chain Transparency",
+    "region": "International",
+    "issueArea": "International",
+    "mission": "We exist to make the chocolate industry 100% slave-free by creating awareness and driving change."
+  },
+  {
+    "name": "Yunus Sports Hub",
+    "location": "Munich, Germany",
+    "industry": "Sports",
+    "values": "Social Business, Youth Development",
+    "region": "International",
+    "issueArea": "Youth Development",
+    "mission": "We use the power of sport to create social impact and address global challenges."
+  },
+  {
+    "name": "Fairphone",
+    "location": "Amsterdam, Netherlands",
+    "industry": "Technology",
+    "values": "Ethical Electronics, Circular Economy",
+    "region": "International",
+    "issueArea": "Environment",
+    "mission": "We create smartphones that put social and environmental values first through ethical sourcing and design."
+  },
+  {
+    "name": "CVS Health",
+    "location": "Woonsocket, RI",
+    "industry": "Healthcare",
+    "values": "Health Equity, Community Wellness",
+    "region": "RI",
+    "issueArea": "Health",
+    "mission": "We help people on their path to better health by providing healthcare services, pharmacy benefits, and retail health solutions."
+  },
+  {
+    "name": "Axa Group",
+    "location": "Paris, France",
+    "industry": "Insurance",
+    "values": "Climate Protection, Social Inclusion",
+    "region": "International",
+    "issueArea": "Social Justice",
+    "mission": "We act for human progress by protecting what matters, enabling people to live better lives."
+  },
+  {
+    "name": "Yunus Social Business",
+    "location": "Wiesbaden, Germany",
+    "industry": "Social Enterprise",
+    "values": "Poverty Alleviation, Social Innovation",
+    "region": "International",
+    "issueArea": "Poverty",
+    "mission": "We create and invest in social businesses that solve social problems through market-based solutions."
+  },
+  {
+    "name": "Wholesome Sweeteners",
+    "location": "Sugar Land, TX",
+    "industry": "Food",
+    "values": "Fair Trade, Organic Agriculture",
+    "region": "TX",
+    "issueArea": "Agriculture",
+    "mission": "We provide organic and fair trade sweeteners while supporting sustainable farming communities worldwide."
+  },
+  {
+    "name": "Blue Bottle Coffee",
+    "location": "Oakland, CA",
+    "industry": "Beverage",
+    "values": "Farmer Relationships, Quality Coffee",
+    "region": "CA",
+    "issueArea": "International",
+    "mission": "We make incredible coffee accessible to everyone while building direct relationships with coffee farmers."
+  },
+  {
+    "name": "Earthbound Farm",
+    "location": "Carmel, CA",
+    "industry": "Agriculture",
+    "values": "Organic Farming, Environmental Stewardship",
+    "region": "CA",
+    "issueArea": "Environment",
+    "mission": "We grow organic produce that nourishes families while caring for the earth and farmworkers."
+  },
+  {
+    "name": "Skanska",
+    "location": "Stockholm, Sweden",
+    "industry": "Construction",
+    "values": "Green Building, Safety First",
+    "region": "International",
+    "issueArea": "Environment",
+    "mission": "We build for a better society by creating sustainable buildings and infrastructure for future generations."
+  },
+  {
+    "name": "Cushman & Wakefield",
+    "location": "Chicago, IL",
+    "industry": "Real Estate",
+    "values": "Sustainable Buildings, Community Development",
+    "region": "IL",
+    "issueArea": "Community",
+    "mission": "We help occupiers and investors optimize their real estate to drive success and growth."
+  },
+  {
+    "name": "Rock Paper Scissors",
+    "location": "Los Angeles, CA",
+    "industry": "Entertainment",
+    "values": "Creative Storytelling, Social Impact",
+    "region": "CA",
+    "issueArea": "Arts",
+    "mission": "We create compelling visual storytelling through post-production services for film, television, and advertising."
+  },
+  {
+    "name": "Participant Media",
+    "location": "Los Angeles, CA",
+    "industry": "Entertainment",
+    "values": "Social Change, Storytelling for Impact",
+    "region": "CA",
+    "issueArea": "Arts",
+    "mission": "We produce entertainment that inspires audiences to engage in positive social change."
+  },
+  {
+    "name": "Games for Change",
+    "location": "New York, NY",
+    "industry": "Gaming",
+    "values": "Social Impact Gaming, Education Through Play",
+    "region": "NY",
+    "issueArea": "Education",
+    "mission": "We catalyze social impact through digital games that help players learn, improve their communities, and contribute to society."
+  },
+  {
+    "name": "Impossible Foods",
+    "location": "Redwood City, CA",
+    "industry": "Food Technology",
+    "values": "Plant-Based Meat, Climate Impact",
+    "region": "CA",
+    "issueArea": "Environment",
+    "mission": "We make meat directly from plants to satisfy meat lovers while using far fewer resources than animal agriculture."
+  },
+  {
+    "name": "Beyond Meat",
+    "location": "El Segundo, CA",
+    "industry": "Food Technology",
+    "values": "Plant-Based Protein, Animal Welfare",
+    "region": "CA",
+    "issueArea": "Environment",
+    "mission": "We create plant-based meat that delivers the delicious taste and texture of animal meat without the compromise."
+  },
+  {
+    "name": "Oatly",
+    "location": "Malmö, Sweden",
+    "industry": "Food",
+    "values": "Plant-Based Dairy, Sustainability",
+    "region": "International",
+    "issueArea": "Environment",
+    "mission": "We make oat-based products that help people upgrade their everyday moments while being better for the planet."
+  },
+  {
+    "name": "Lemonade Insurance",
+    "location": "New York, NY",
+    "industry": "Insurance",
+    "values": "AI for Good, Giveback Program",
+    "region": "NY",
+    "issueArea": "Technology",
+    "mission": "We harness technology and social impact to deliver instant, affordable insurance while giving back to causes customers care about."
+  },
+  {
+    "name": "Vital Farms",
+    "location": "Austin, TX",
+    "industry": "Food",
+    "values": "Humane Animal Treatment, Pasture-Raised",
+    "region": "TX",
+    "issueArea": "Agriculture",
+    "mission": "We bring ethically produced food to the table by coordinating a collection of family farms committed to humane animal treatment."
+  },
+  {
+    "name": "AppHarvest",
+    "location": "Morehead, KY",
+    "industry": "Agriculture",
+    "values": "Indoor Farming, Water Conservation",
+    "region": "KY",
+    "issueArea": "Agriculture",
+    "mission": "We develop and operate indoor farms that grow non-GMO, chemical-free produce using 90% less water than traditional agriculture."
+  },
+  {
+    "name": "Sezzle",
+    "location": "Minneapolis, MN",
+    "industry": "Fintech",
+    "values": "Financial Inclusion, Responsible Lending",
+    "region": "MN",
+    "issueArea": "Economic Justice",
+    "mission": "We financially empower young consumers by providing interest-free installment plans that help them build credit and purchase power."
+  },
+  {
+    "name": "Zevia",
+    "location": "Los Angeles, CA",
+    "industry": "Beverage",
+    "values": "Zero Sugar, Plant-Based Sweeteners",
+    "region": "CA",
+    "issueArea": "Health",
+    "mission": "We make delicious, zero-calorie beverages naturally sweetened with stevia to help families reduce sugar consumption."
+  },
+  {
+    "name": "HomeBiogas",
+    "location": "Beit Yanai, Israel",
+    "industry": "Clean Energy",
+    "values": "Biogas Solutions, Waste to Energy",
+    "region": "International",
+    "issueArea": "Environment",
+    "mission": "We enable households to turn organic waste into clean cooking gas and liquid fertilizer through simple biogas systems."
+  },
+  {
+    "name": "MoneyMe",
+    "location": "Sydney, Australia",
+    "industry": "Fintech",
+    "values": "Digital Financial Services, Responsible Lending",
+    "region": "International",
+    "issueArea": "Economic Justice",
+    "mission": "We provide fast, fair, and flexible personal loans through innovative technology and responsible lending practices."
+  },
+  {
+    "name": "Natra",
+    "location": "Valencia, Spain",
+    "industry": "Food Manufacturing",
+    "values": "Sustainable Cocoa, Fair Trade",
+    "region": "International",
+    "issueArea": "International",
+    "mission": "We create innovative food ingredients and consumer brands that promote healthier lifestyles while supporting sustainable cocoa farming."
+  },
+  {
+    "name": "Trilogy International Partners",
+    "location": "Bellevue, WA",
+    "industry": "Telecommunications",
+    "values": "Digital Inclusion, Rural Connectivity",
+    "region": "WA",
+    "issueArea": "Technology",
+    "mission": "We expand wireless communications to underserved markets across the globe through infrastructure investment."
+  },
+  {
+    "name": "Humble Bundle",
+    "location": "San Francisco, CA",
+    "industry": "Gaming",
+    "values": "Charity Fundraising, Indie Game Support",
+    "region": "CA",
+    "issueArea": "Arts",
+    "mission": "We support charity and indie developers by offering bundles of games, books, and software at great prices."
+  },
+  {
+    "name": "Kiva Microfunds",
+    "location": "San Francisco, CA",
+    "industry": "Finance",
+    "values": "Microfinance, Financial Inclusion",
+    "region": "CA",
+    "issueArea": "Economic Justice",
+    "mission": "We connect people through lending to alleviate poverty by providing microfinance to underserved communities worldwide."
+  },
+  {
+    "name": "Change.org",
+    "location": "San Francisco, CA",
+    "industry": "Technology",
+    "values": "Social Activism, Democratic Participation",
+    "region": "CA",
+    "issueArea": "Social Justice",
+    "mission": "We empower people everywhere to start campaigns, mobilize supporters, and work with decision makers to drive solutions."
+  },
+  {
+    "name": "Grameen America",
+    "location": "New York, NY",
+    "industry": "Finance",
+    "values": "Microfinance for Women, Financial Empowerment",
+    "region": "NY",
+    "issueArea": "Women",
+    "mission": "We provide microcredit, training, and support to help women in poverty build small businesses and assets."
+  },
+  {
+    "name": "Ashoka U",
+    "location": "Arlington, VA",
+    "industry": "Education",
+    "values": "Social Innovation, Youth Changemakers",
+    "region": "VA",
+    "issueArea": "Education",
+    "mission": "We prepare students to be changemakers by developing empathy, teamwork, leadership, and problem-solving skills."
+  },
+  {
+    "name": "Net Impact",
+    "location": "San Francisco, CA",
+    "industry": "Professional Services",
+    "values": "Purpose-Driven Careers, Social Innovation",
+    "region": "CA",
+    "issueArea": "Social Justice",
+    "mission": "We inspire, educate, and equip emerging leaders to use their careers to drive transformational change in their workplace and world."
+  },
+  {
+    "name": "B the Change Media",
+    "location": "Wayne, PA",
+    "industry": "Media",
+    "values": "B Corp Storytelling, Movement Building",
+    "region": "PA",
+    "issueArea": "Social Justice",
+    "mission": "We amplify the voices of the people, companies, and organizations driving positive change through compelling storytelling and media content."
+  },
+  {
+    "name": "Freelancers Union",
+    "location": "New York, NY",
+    "industry": "Professional Services",
+    "values": "Worker Rights, Freelancer Support",
+    "region": "NY",
+    "issueArea": "Workers",
+    "mission": "We promote the interests of independent workers through advocacy, education, and services that support the freelance community."
+  },
+  {
+    "name": "Upwork",
+    "location": "San Francisco, CA",
+    "industry": "Technology",
+    "values": "Remote Work, Global Talent Access",
+    "region": "CA",
+    "issueArea": "Workers",
+    "mission": "We create economic opportunities so people have better lives by connecting businesses with independent talent around the globe."
+  },
+  {
+    "name": "WeWork",
+    "location": "New York, NY",
+    "industry": "Real Estate",
+    "values": "Community Building, Flexible Work Spaces",
+    "region": "NY",
+    "issueArea": "Community",
+    "mission": "We provide flexible workspace solutions that help companies and their employees be more connected, productive, and successful."
+  }
+]

@@ -18,10 +18,10 @@ const loadData = () => {
   try {
     // Try multiple possible paths for data files
     const possiblePaths = [
+      // Railway deployment path (data copied into backend/)
+      path.join(__dirname, '../data/processed/nonprofits.json'),
       // Local development path
       path.join(__dirname, '../../data/processed/nonprofits.json'),
-      // Railway deployment path (from /app/api/ to /app/data/processed/)
-      path.join(__dirname, '../data/processed/nonprofits.json'),
       // Alternative Railway path
       path.join(process.cwd(), 'data/processed/nonprofits.json')
     ];
