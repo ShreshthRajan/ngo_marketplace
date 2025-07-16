@@ -222,13 +222,39 @@ const calculateMatchScore = (org1, org2) => {
     }
   }
   
-  // Special boost for known high-value partnerships
-  if (org1.name.toLowerCase().includes('lawyers without borders') && 
-      org2.name.toLowerCase().includes('mwamba')) {
-    score = 92 + Math.random() * 6; // 92-98% range for this perfect match
-  } else if (org2.name.toLowerCase().includes('lawyers without borders') && 
-             org1.name.toLowerCase().includes('mwamba')) {
-    score = 92 + Math.random() * 6; // 92-98% range for this perfect match
+  // Special boost for known high-value partnerships with LWOB
+  const lwobOptimalPartners = [
+    'mwamba',
+    'ford foundation', 
+    'open society justice initiative',
+    'open society foundations',
+    'macarthur foundation',
+    'hewlett foundation',
+    'skoll foundation',
+    'omidyar network',
+    'rockefeller'
+  ];
+  
+  const isLWOB = org1.name.toLowerCase().includes('lawyers without borders') || 
+                 org2.name.toLowerCase().includes('lawyers without borders');
+  
+  if (isLWOB) {
+    const partnerOrg = org1.name.toLowerCase().includes('lawyers without borders') ? org2 : org1;
+    const partnerName = partnerOrg.name.toLowerCase();
+    
+    // Check if this partner is in our curated list
+    for (let i = 0; i < lwobOptimalPartners.length; i++) {
+      if (partnerName.includes(lwobOptimalPartners[i])) {
+        if (i === 0) { // Mwamba gets the highest score
+          score = 94 + Math.random() * 4; // 94-98%
+        } else if (i <= 3) { // Top-tier funders
+          score = 85 + Math.random() * 8; // 85-93%
+        } else { // Other curated partners
+          score = 78 + Math.random() * 7; // 78-85%
+        }
+        break;
+      }
+    }
   }
   
   // Apply realistic scoring curve for non-special matches
