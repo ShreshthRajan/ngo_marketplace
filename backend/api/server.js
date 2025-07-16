@@ -16,9 +16,32 @@ let forprofits = [];
 
 const loadData = () => {
   try {
-    const nonprofitsPath = path.join(__dirname, '../../data/processed/nonprofits.json');
-    const forprofitsPath = path.join(__dirname, '../../data/processed/forprofits.json');
+    // Try multiple possible paths for data files
+    const possiblePaths = [
+      // Local development path
+      path.join(__dirname, '../../data/processed/nonprofits.json'),
+      // Railway deployment path (from /app/api/ to /app/data/processed/)
+      path.join(__dirname, '../data/processed/nonprofits.json'),
+      // Alternative Railway path
+      path.join(process.cwd(), 'data/processed/nonprofits.json')
+    ];
     
+    let nonprofitsPath, forprofitsPath;
+    
+    // Find the correct path
+    for (const testPath of possiblePaths) {
+      if (fs.existsSync(testPath)) {
+        nonprofitsPath = testPath;
+        forprofitsPath = testPath.replace('nonprofits.json', 'forprofits.json');
+        break;
+      }
+    }
+    
+    if (!nonprofitsPath) {
+      throw new Error('Could not find data files. Checked paths: ' + possiblePaths.join(', '));
+    }
+    
+    console.log(`Loading data from: ${nonprofitsPath}`);
     nonprofits = JSON.parse(fs.readFileSync(nonprofitsPath, 'utf8'));
     forprofits = JSON.parse(fs.readFileSync(forprofitsPath, 'utf8'));
     
